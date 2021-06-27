@@ -1,0 +1,60 @@
+2021-06-27 12:36:38 | WARN | [<my_etl_job local-1624777561487>] loaded config from etl_config.json
+2021-06-27 12:36:38 | WARN | [org.apache.spark.SparkContext] The path log4j.properties has been added already. Overwriting of added paths is not supported in the current version.
+2021-06-27 12:36:38 | ERROR | [<my_etl_job local-1624777561487>] etl_job is up-and-running
+2021-06-27 12:36:38 | WARN | [<my_etl_job local-1624777561487>] Job started
+2021-06-27 12:36:39 | ERROR | [<my_etl_job local-1624777561487>] Exception occured with dataframe: name 'data1' is not defined
+2021-06-27 12:36:39 | WARN | [<my_etl_job local-1624777561487>] test_etl_job is finished
+2021-06-27 12:38:10 | WARN | [<my_etl_job local-1624777690160>] loaded config from etl_config.json
+2021-06-27 12:38:10 | ERROR | [<my_etl_job local-1624777690160>] etl_job is up-and-running
+2021-06-27 12:38:10 | WARN | [<my_etl_job local-1624777690160>] Job started
+2021-06-27 12:38:10 | WARN | [<my_etl_job local-1624777690160>] test_etl_job is finished
+2021-06-27 12:43:31,WARN,<my_etl_job local-1624778009164>,?,?,NativeMethodAccessorImpl,invoke0 loaded config from etl_config.json
+2021-06-27 12:43:31,ERROR,<my_etl_job local-1624778009164>,?,?,NativeMethodAccessorImpl,invoke0 etl_job is up-and-running
+2021-06-27 12:43:31,WARN,<my_etl_job local-1624778009164>,?,?,NativeMethodAccessorImpl,invoke0 Job started
+2021-06-27 12:43:34,ERROR,<my_etl_job local-1624778009164>,?,?,NativeMethodAccessorImpl,invoke0 Exception occured with dataframe: name 'data1' is not defined
+2021-06-27 12:43:34,WARN,<my_etl_job local-1624778009164>,?,?,NativeMethodAccessorImpl,invoke0 test_etl_job is finished
+2021-06-27 12:46:40 | WARN | [<my_etl_job local-1624778198469>] | ? loaded config from etl_config.json
+2021-06-27 12:46:40 | ERROR | [<my_etl_job local-1624778198469>] | ? etl_job is up-and-running
+2021-06-27 12:46:40 | WARN | [<my_etl_job local-1624778198469>] | ? Job started
+2021-06-27 12:46:45 | ERROR | [<my_etl_job local-1624778198469>] | ? Exception occured with dataframe: name 'data1' is not defined
+2021-06-27 12:46:45 | WARN | [<my_etl_job local-1624778198469>] | ? test_etl_job is finished
+2021-06-27 12:51:21 WARN  <my_etl_job local-1624778479554>:? - loaded config from etl_config.json
+2021-06-27 12:51:21 ERROR <my_etl_job local-1624778479554>:? - etl_job is up-and-running
+2021-06-27 12:51:21 WARN  <my_etl_job local-1624778479554>:? - Job started
+2021-06-27 12:51:26 ERROR <my_etl_job local-1624778479554>:? - Exception occured with dataframe: name 'data1' is not defined
+2021-06-27 12:51:26 WARN  <my_etl_job local-1624778479554>:? - test_etl_job is finished
+2021-06-27 12:58:11 WARN  <my_etl_job local-1624778889809>:? - loaded config from etl_config.json
+2021-06-27 12:58:11 ERROR <my_etl_job local-1624778889809>:? - etl_job is up-and-running
+2021-06-27 12:58:11 WARN  <my_etl_job local-1624778889809>:? - Job started
+2021-06-27 12:58:18 ERROR <my_etl_job local-1624778889809>:? - Exception occured with dataframe: name 'data1' is not defined
+2021-06-27 12:58:18 WARN  <my_etl_job local-1624778889809>:? - test_etl_job is finished
+2021-06-27 12:59:51 [ WARN ] [<my_etl_job local-1624778989314>] loaded config from etl_config.json
+2021-06-27 12:59:51 [ ERROR ] [<my_etl_job local-1624778989314>] etl_job is up-and-running
+2021-06-27 12:59:51 [ WARN ] [<my_etl_job local-1624778989314>] Job started
+2021-06-27 12:59:58 [ ERROR ] [<my_etl_job local-1624778989314>] Exception occured with dataframe: name 'data1' is not defined
+2021-06-27 12:59:58 [ WARN ] [<my_etl_job local-1624778989314>] test_etl_job is finished
+[WARN] 2021-06-27 13:03:39,266 [Thread-4]  <my_etl_job local-1624779217376> invoke0 - loaded config from etl_config.json
+[ERROR] 2021-06-27 13:03:39,423 [Thread-4]  <my_etl_job local-1624779217376> invoke0 - etl_job is up-and-running
+[WARN] 2021-06-27 13:03:39,424 [Thread-4]  <my_etl_job local-1624779217376> invoke0 - Job started
+[ERROR] 2021-06-27 13:03:43,895 [Thread-4]  <my_etl_job local-1624779217376> invoke0 - Exception occured with dataframe: name 'data1' is not defined
+[WARN] 2021-06-27 13:03:43,896 [Thread-4]  <my_etl_job local-1624779217376> invoke0 - test_etl_job is finished
+2021-06-27 13:09:02 [ WARN ] [<my_etl_job local-1624779540954>] loaded config from etl_config.json
+ Thread-42021-06-27 13:09:02 [ ERROR ] [<my_etl_job local-1624779540954>] etl_job is up-and-running
+ Thread-42021-06-27 13:09:02 [ WARN ] [<my_etl_job local-1624779540954>] Job started
+ Thread-42021-06-27 13:09:06 [ ERROR ] [<my_etl_job local-1624779540954>] Exception occured with dataframe: name 'data1' is not defined
+ Thread-42021-06-27 13:09:06 [ WARN ] [<my_etl_job local-1624779540954>] test_etl_job is finished
+ Thread-42021-06-27 13:10:47 [ WARN ] [<my_etl_job local-1624779645456>] [?] loaded config from etl_config.json
+2021-06-27 13:10:47 [ ERROR ] [<my_etl_job local-1624779645456>] [?] etl_job is up-and-running
+2021-06-27 13:10:47 [ WARN ] [<my_etl_job local-1624779645456>] [?] Job started
+2021-06-27 13:10:50 [ ERROR ] [<my_etl_job local-1624779645456>] [?] Exception occured with dataframe: name 'data1' is not defined
+2021-06-27 13:10:50 [ WARN ] [<my_etl_job local-1624779645456>] [?] test_etl_job is finished
+2021-06-27 13:16:43 [ WARN ] [<my_etl_job local-1624780000479>] loaded config from etl_config.json
+2021-06-27 13:16:43 [ ERROR ] [<my_etl_job local-1624780000479>] etl_job is up-and-running
+2021-06-27 13:16:43 [ WARN ] [<my_etl_job local-1624780000479>] Job started
+2021-06-27 13:16:50 [ ERROR ] [<my_etl_job local-1624780000479>] Exception occured with dataframe: name 'data1' is not defined
+2021-06-27 13:16:50 [ WARN ] [<my_etl_job local-1624780000479>] test_etl_job is finished
+2021-06-27 13:18:13 [ WARN ] [<my_etl_job local-1624780090665>] loaded config from etl_config.json
+2021-06-27 13:18:13 [ ERROR ] [<my_etl_job local-1624780090665>] etl_job is up-and-running
+2021-06-27 13:18:13 [ WARN ] [<my_etl_job local-1624780090665>] Job started
+2021-06-27 13:18:20 [ ERROR ] [<my_etl_job local-1624780090665>] Exception occured with dataframe: name 'data1' is not defined
+2021-06-27 13:18:20 [ WARN ] [<my_etl_job local-1624780090665>] test_etl_job is finished
